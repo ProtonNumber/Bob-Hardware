@@ -1,6 +1,9 @@
 (fp_lib_table
+  (version 7)
   (lib (name "Logos")(type "KiCad")(uri "${KIPRJMOD}/Logos.pretty")(options "")(descr ""))
   (lib (name "YAR_MCU")(type "KiCad")(uri "${KIPRJMOD}/YAR-Kicad-Libs/Footprints/YAR_MCU.pretty")(options "")(descr ""))
   (lib (name "YAR_Sensors")(type "KiCad")(uri "${KIPRJMOD}/YAR-Kicad-Libs/Footprints/YAR_Sensors.pretty")(options "")(descr ""))
   (lib (name "YAR_Connectors")(type "KiCad")(uri "${KIPRJMOD}/YAR-Kicad-Libs/Footprints/YAR_Connectors.pretty")(options "")(descr ""))
+  (lib (name "YAR_other")(type "KiCad")(uri "${KIPRJMOD}/YAR-Kicad-Libs/Footprints/YAR_other.pretty")(options "")(descr ""))
+  (lib (name "YAR_Logos")(type "KiCad")(uri "${KIPRJMOD}/YAR-Kicad-Libs/Footprints/YAR_Logos.pretty")(options "")(descr ""))
 )
